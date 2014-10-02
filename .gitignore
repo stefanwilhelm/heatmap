@@ -41,3 +41,22 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+.RData
+.Rhistory
+.Rproj.user/A652BD92/pcs/files-pane.pper
+.Rproj.user/A652BD92/pcs/source-pane.pper
+*.pper
+.Rproj.user/A652BD92/sdb/per/t/3B56056A
+.Rproj.user/A652BD92/sdb/per/t/3FABB22A
+CVS/Entries
+CVS/Entries.Extra
+CVS/Entries.Extra.Old
+CVS/Entries.Old
+CVS/Repository
+CVS/Root
+shinyapps/stefanwilhelm/heatmap.dcf
+*.Rproj
+.Rproj.user/A652BD92/sdb/prop/8014AC2F
+.Rproj.user/A652BD92/sdb/prop/FA91C022
+.Rproj.user/A652BD92/sdb/prop/INDEX
